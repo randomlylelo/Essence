@@ -2,6 +2,9 @@
 
 ![GitHub](https://img.shields.io/github/license/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/top/JarnotMaciej/FirefoxCSS?style=flat-square) ![GitHub](https://img.shields.io/github/languages/code-size/JarnotMaciej/FirefoxCSS?style=flat-square) 
 
+## My updates
+Tried to make it similar to cascade but this is better since my extensions show, unsure why the extension button is not showing but easy fix by removing this and then pin extensions as needed and move on. Also using deep space theme rn.
+
 ## Short description
 
 Essence is a compact, beautiful, and minimalistic theme for the Firefox web browser. The main goal was to minify a toolbar, so more content would be displayed in the browser.
